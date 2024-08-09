@@ -1,2 +1,3 @@
-# Smart_Python
-This is a practice for SmartInternz
+# Machine Learning with Python
+This is a Machine Learning algorithms and projects Repo
+
